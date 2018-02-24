@@ -1,0 +1,1 @@
+In this block, I will use the linear regression algorithm to predict the price of the housing price of Melborne
